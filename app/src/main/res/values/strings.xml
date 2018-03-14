@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mobilapp2</string>
+    <string name="generate">Generate</string>
+    <string name="employees">Employees</string>
+    <string name="picture">Picture</string>
+    <string name="name">Name</string>
+    <string name="freeFromWork">Free from work</string>
+    <string name="phoneNumber">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+</resources>
